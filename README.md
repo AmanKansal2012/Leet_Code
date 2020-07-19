@@ -1,1 +1,3 @@
 # Leet_Code
+# Here I will be putting the solutions daily from the leet code question bank. 
+Took a step to start coding...
