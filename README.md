@@ -1,3 +1,3 @@
 # Leet_Code Starting date: 19-07-2020
-# Here I will be putting the solutions daily from the leet code question bank. 
+# Here I will be putting the solutions daily from the leet code question bank. I will be using Java for the implementation. 
 Took a step to start coding...
