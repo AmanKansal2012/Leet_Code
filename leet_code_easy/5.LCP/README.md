@@ -1,4 +1,6 @@
-# Leet_Code:Question 4:Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999.
+# Leet_Code:Question 5:Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
 A bit trickier for me...
 Took help for it to code it.
 
