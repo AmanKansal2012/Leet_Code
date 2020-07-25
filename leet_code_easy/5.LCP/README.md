@@ -3,6 +3,4 @@
 If there is no common prefix, return an empty string "".
 A bit trickier for me...
 Took help for it to code it.
-
-![1](https://user-images.githubusercontent.com/61155876/88206749-68806280-cc6c-11ea-9401-53acf6316949.PNG)
-![11](https://user-images.githubusercontent.com/61155876/88206769-6fa77080-cc6c-11ea-8bc4-67bff795e1e6.PNG)
+![1](https://user-images.githubusercontent.com/61155876/88450933-6c7cd200-ce70-11ea-971b-e7701b32ce0b.PNG)
